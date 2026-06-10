@@ -1,0 +1,10 @@
+{
+  "algorithm": "SHA-1",
+  "data": {
+    "88ec3d8dad679d94c97fce2e837800ad743d8a15": {
+      "version": "2026.3.543.0",
+      "patched": "62d7f7574978d9197892d064fefac15e80380ee4",
+      "offset": 905618
+    }
+  }
+}
